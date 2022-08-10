@@ -1,0 +1,39 @@
+a 
+{
+	text-decoration: none;
+	color: black;
+}
+.post{
+	background-color:  rgba(0, 0, 0, .25);
+	width: 50%;
+}
+#posts{
+	background-color:  rgba(0, 0, 0, .75);
+	width: 50%;
+}
+.request{
+	color: red;
+}
+.home{
+	color: gray;
+}
+
+body{
+	background-color: pink;
+}
+#transaction{
+	background-color:  rgba(0, 0, 0, .25);
+	width: 25%;
+}
+#person{
+	color: red;
+}
+#transac{
+	background-color:  rgba(0, 0, 0, .25);
+	width: 50%;
+}
+#get{
+	color: blue;
+}
+
+	
